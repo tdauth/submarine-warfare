@@ -11,3 +11,4 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 * BTNGnomeEngineer - Scias
 * BTNCRNuclearP - CRAZYRUSSIAN
 * BTNLaptop - Zombie
+* Destroyer - Illidan(Evil)X
