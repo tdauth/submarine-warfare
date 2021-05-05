@@ -1,5 +1,6 @@
 # Submarine Wars
 
+Warcraft III Reforged funmap in which you control your submarine and have to destroy the other submarines.
 
 ## Credits
 
@@ -8,3 +9,5 @@
 * HammerheadTorpedos -  MiniMage
 * SystemCom icon - Captain_Rufar
 * BTNGnomeEngineer - Scias
+* BTNCRNuclearP - CRAZYRUSSIAN
+* BTNLaptop - Zombie
