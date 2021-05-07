@@ -21,5 +21,6 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 * BTNGaussRifle1 - The_Silent
 * Gnome Engineer - Pvt.Toma
 * Gnome Brassman - Pvt.Toma
+* Murray in Rock-Cave - Uncle Fester
 * 01 - Hymn To Red October (Main Title).mp3 - Basil Poledouris, The Hunt For Red October
 * 02 - Das Boot.mp3 - Klaus Doldinger, Die Original Filmmusik Das Boot
