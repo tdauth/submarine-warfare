@@ -65,3 +65,5 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 * Nautilus - Uncle Fester
 * Piranha - Misha
 * Sheltered Raft - The_Silent
+* Lava (used as water), HappyTauren https://www.hiveworkshop.com/threads/lava.222317/
+* Muti-Tier Hydra - frostwhisper
