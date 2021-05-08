@@ -69,3 +69,4 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 * Muti-Tier Hydra - frostwhisper
 * BTNTarget - ChirusHighwind
 * SnipingTarget - ChirusHighwind
+* OinkerGeosphere2 - armel
