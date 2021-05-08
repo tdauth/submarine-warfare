@@ -70,3 +70,6 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 * BTNTarget - ChirusHighwind
 * SnipingTarget - ChirusHighwind
 * OinkerGeosphere2 - armel
+* Orange & Purple Crystals - Uncle Fester
+* Blue & Green Crystals - Uncle Fester
+* Red & Yellow Crystals - Uncle Fester
