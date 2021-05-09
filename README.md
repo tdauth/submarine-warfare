@@ -2,9 +2,65 @@
 
 Warcraft III Reforged funmap in which you control your submarine and have to destroy the other submarines.
 
-## Download
+## Play the Map
 
 * [submarinewarfare0.1.w3x](./submarinewarfare0.1.w3x)
+* [Discord Server](https://discord.gg/sXUWS9w9JE)
+
+## Gameplay
+
+* Destroy the enemy submarines to win the game.
+* Kill fishes to gain XP and gold.
+* Buy items from gold to upgrade your submarine.
+* Repair destroyed allied submarines by moving to their location.
+* Do not get destroyed.
+
+### Movement
+
+You control your submarine using arrow keys.
+
+### Submerge
+
+As long as your submarine is not submerged you cannot see submerged submarines or what is going on under water.
+You are an easy target for enemy players, ships and weather conditions.
+However, you heal and regenerate your mana faster staying on the water surface.
+
+The submarine can submerge which makes it invisible and allows you to see whats going on under water but slows it down and reduces its life and mana regeneration.
+There is also a time limit on how long you can submerge with oxygen.
+You can dive deeper into the water with the submarine which allows you to discover the seabed and collect useful items.
+However, the pressure gets higher when you dive deeper and it might break your submarine after some time, so do not stay there forever.
+
+### Torpedos
+
+Your submarine can fire torpedos which do not auto target by default. However, there is an item which allows you to mark targets and then the torpedos will always follow it.
+There is a time limit how long torpedos stay alive, so the target can avoid them by moving away long enough.
+
+### Water Mines
+
+Water mines can be placed anywhere in the water and stay invisible except for submerged submarines. They explode on moving over them causing massive damage.
+
+### Fishes
+
+Fishes can easily be killed and give you XP and gold. They respawn all the time. The lumber icon and number of Warcraft are used to show the total number of fishes on the map.
+Fishes will be killed when the submarine moves throught them and it is not submerged.
+
+### Destroyers and Air Craft Carriers
+
+There are hostile ships on the map shooting at you and placing water mines. You can avoid them by submerging or kill them to gain more XP and gold than by killing fishes.
+
+### Storms
+
+Storms start randomly and create waves and lightning bolds on the water surface causing damage to units which are not submerged.
+
+### The Island
+
+There is an island in the middle of the map where you can leave your submarine and walk around to buy items and do things.
+Use your crystals there to upgrade the submarine.
+
+### Crystals
+
+Crystals are useful artifacts collected from the seabed. You need to dive to the deepest level to get them, so be careful to get not too greedy.
+They can be used to upgrade your submarine.
 
 ## Credits
 
@@ -73,3 +129,11 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 * Orange & Purple Crystals - Uncle Fester
 * Blue & Green Crystals - Uncle Fester
 * Red & Yellow Crystals - Uncle Fester
+* Su-35 Super Flanker - Su-35 Super Flanker
+* NuclearExplosion - WILL THE ALMIGHTY
+* Aircraft Carrier - Illidan(Evil)X
+* BTNDestroyer - Null
+* BTNMetalPlatingLevel1, BTNMetalPlatingLevel2, BTNMetalPlatingLevel3 - The_Silent
+* Cannoneer Team Kul-Tiras HD/Age of Colonization - Asssssvi
+* RocketMissile-2- - Kofi_Banan
+* BTNrocket - Zombie
