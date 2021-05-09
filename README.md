@@ -62,6 +62,13 @@ Use your crystals there to upgrade the submarine.
 Crystals are useful artifacts collected from the seabed. You need to dive to the deepest level to get them, so be careful to get not too greedy.
 They can be used to upgrade your submarine.
 
+## Screenshots
+
+|               |               |
+| ------------- | ------------- |
+| ![Submerge](./screenshots/SubmergeLevel1.png "Submerge")             | ![Launch Missiles](./screenshots/LaunchMissiles.png.png "Launch Missiles") |
+| ![Crystals](./screenshots/Crystals.png "Crystals")             |
+
 ## Credits
 
 * 01 - Hymn To Red October (Main Title).mp3 - Basil Poledouris, The Hunt For Red October
