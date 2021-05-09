@@ -66,7 +66,7 @@ They can be used to upgrade your submarine.
 
 |               |               |
 | ------------- | ------------- |
-| ![Submerge](./screenshots/SubmergeLevel1.png "Submerge")             | ![Launch Missiles](./screenshots/LaunchMissiles.png.png "Launch Missiles") |
+| ![Submerge](./screenshots/SubmergeLevel1.png "Submerge")             | ![Launch Missiles](./screenshots/LaunchMissiles.png "Launch Missiles") |
 | ![Crystals](./screenshots/Crystals.png "Crystals")             |
 
 ## Credits
