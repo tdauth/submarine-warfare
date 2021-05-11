@@ -147,3 +147,5 @@ They can be used to upgrade your submarine.
 * BTNBubbles - Golden-Drake
 * Elevator model - bisnar13
 * Whirlpool - Mc !
+* U-Boat - Illidan(Evil)X
+* BTNSimpleCompass12 - Solu9
