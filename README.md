@@ -149,3 +149,5 @@ They can be used to upgrade your submarine.
 * Whirlpool - Mc !
 * U-Boat - Illidan(Evil)X
 * BTNSimpleCompass12 - Solu9
+* BTNGoldIngot - Kenathorn
+* Gold Ingot - Kenathorn
