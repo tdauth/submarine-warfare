@@ -9,11 +9,14 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 
 ## Gameplay
 
-* Destroy the enemy submarines to win the game.
+* Destroy the enemy underwater base to win the game.
 * Kill fishes to gain XP and gold.
 * Buy items from gold to upgrade your submarine.
 * Repair destroyed allied submarines by moving to their location.
 * Do not get destroyed.
+* Destroyed submarines will be revived automatically after some time.
+* Submerge with your submarine to explore the ocean and find useful items.
+* Do not stay under water for too long or too deep or your submarine will get destroyed.
 
 ### Movement
 
