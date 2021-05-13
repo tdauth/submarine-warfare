@@ -4,7 +4,7 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 
 ## Play the Map
 
-* [submarinewarfare0.1.w3x](./submarinewarfare0.1.w3x)
+* [submarinewarfare0.2.w3x](./submarinewarfare0.2.w3x)
 * [Discord Server](https://discord.gg/sXUWS9w9JE)
 
 ## Gameplay
@@ -68,6 +68,10 @@ They can be used to upgrade your submarine.
 | ------------- | ------------- |
 | ![Submerge](./screenshots/SubmergeLevel1.png "Submerge")             | ![Launch Missiles](./screenshots/LaunchMissiles.png "Launch Missiles") |
 | ![Crystals](./screenshots/Crystals.png "Crystals")             |
+
+## Old Versions
+
+* [submarinewarfare0.1.w3x](./old/submarinewarfare0.1.w3x)
 
 ## Credits
 
@@ -151,3 +155,10 @@ They can be used to upgrade your submarine.
 * BTNSimpleCompass12 - Solu9
 * BTNGoldIngot - Kenathorn
 * Gold Ingot - Kenathorn
+* Gatling Canon - Shardeth
+* BTNTurret - ikillforeyou
+* Gnome Castle - Pvt.Toma
+* Gnome Turret - Pvt.Toma
+* Guardian (Variations) - Mister_Haudrauf
+* Red Laser - Champara Bros
+* BTNPieceOfShip - NFWar
