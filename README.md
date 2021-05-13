@@ -5,6 +5,7 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 ## Play the Map
 
 * [submarinewarfare0.2.w3x](./submarinewarfare0.2.w3x)
+* [Download on HiveWorkshop](https://www.hiveworkshop.com/threads/submarine-warfare-0-2.332475/)
 * [Discord Server](https://discord.gg/sXUWS9w9JE)
 
 ## Gameplay
@@ -165,3 +166,10 @@ They can be used to upgrade your submarine.
 * Guardian (Variations) - Mister_Haudrauf
 * Red Laser - Champara Bros
 * BTNPieceOfShip - NFWar
+* BTNCamera - darkdeathknight
+* BTNCameraFar - darkdeathknight
+* BTNCameraClose - darkdeathknight
+* BTNINV_Misc_Bomb_01 - Blizzard Entertainment
+* BTNINV_Misc_Bomb_02 - Blizzard Entertainment
+* BTNRocketFlare - 4eNNightmare
+* BOMB! - Kitabatake
