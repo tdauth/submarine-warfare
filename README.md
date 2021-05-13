@@ -173,3 +173,5 @@ They can be used to upgrade your submarine.
 * BTNINV_Misc_Bomb_02 - Blizzard Entertainment
 * BTNRocketFlare - 4eNNightmare
 * BOMB! - Kitabatake
+* Ironclad Submarine - Kam, Sellenisko, infrenus
+* BTNCameraReset - darkdeathknight
