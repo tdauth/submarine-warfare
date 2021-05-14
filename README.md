@@ -83,6 +83,10 @@ They can be used to upgrade your submarine.
 | ![Submerge](./screenshots/SubmergeLevel1.png "Submerge")             | ![Launch Missiles](./screenshots/LaunchMissiles.png "Launch Missiles") |
 | ![Crystals](./screenshots/Crystals.png "Crystals")             |
 
+## Videos
+
+[![Videos on YouTube](https://img.youtube.com/vi/tGmDPt_JtGU/0.jpg)](https://www.youtube.com/watch?v=tGmDPt_JtGU&list=PLmfeGbBvSVGDlOtNw67FQQ3mAZNFdWnD_)
+
 ## Old Versions
 
 * [submarinewarfare0.2.w3x](./old/submarinewarfare0.2.w3x)
