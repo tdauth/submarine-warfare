@@ -175,3 +175,5 @@ They can be used to upgrade your submarine.
 * BOMB! - Kitabatake
 * Ironclad Submarine - Kam, Sellenisko, infrenus
 * BTNCameraReset - darkdeathknight
+* Ceiling Rays - Tranquil
+* AnimatedEnviromentalEffectRainCv002 - kellym0
