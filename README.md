@@ -196,3 +196,4 @@ They can be used to upgrade your submarine.
 * BTNDunkleos - olofmoleman
 * Dreadnought Ships - purparisien
 * Imperial Russian Cruiser Bogatyr - ingolfin
+* Kraken - Wraithling
