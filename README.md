@@ -4,7 +4,7 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 
 ## Play the Map
 
-* [submarinewarfare0.2.w3x](./submarinewarfare0.2.w3x)
+* [submarinewarfare0.3.w3x](./submarinewarfare0.3.w3x)
 * [Download on HiveWorkshop](https://www.hiveworkshop.com/threads/submarine-warfare-0-2.332475/)
 * [Discord Server](https://discord.gg/sXUWS9w9JE)
 
@@ -85,6 +85,7 @@ They can be used to upgrade your submarine.
 
 ## Old Versions
 
+* [submarinewarfare0.2.w3x](./old/submarinewarfare0.2.w3x)
 * [submarinewarfare0.1.w3x](./old/submarinewarfare0.1.w3x)
 
 ## Credits
