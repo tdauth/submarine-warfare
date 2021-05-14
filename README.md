@@ -177,3 +177,5 @@ They can be used to upgrade your submarine.
 * BTNCameraReset - darkdeathknight
 * Ceiling Rays - Tranquil
 * AnimatedEnviromentalEffectRainCv002 - kellym0
+* Dunkleosteus - olofmoleman
+* BTNDunkleos - olofmoleman
