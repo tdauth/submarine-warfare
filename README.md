@@ -39,10 +39,10 @@ You can dive deeper into the water with the submarine which allows you to discov
 However, the pressure gets higher when you dive deeper and it might break your submarine after some time, so do not stay there forever.
 Besides, the view gets worse if you dive deeper into the water.
 
-### Torpedos
+### Torpedoes
 
-Your submarine can fire torpedos which do not auto target by default. However, there is an item which allows you to mark targets and then the torpedos will always follow it.
-There is a time limit how long torpedos stay alive, so the target can avoid them by moving away long enough.
+Your submarine can fire torpedoes which do not auto target by default. However, there is an item which allows you to mark targets and then the torpedoes will always follow it.
+There is a time limit how long torpedoes stay alive, so the target can avoid them by moving away long enough.
 
 ### Water Mines
 
