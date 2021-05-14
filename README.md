@@ -23,16 +23,21 @@ Warcraft III Reforged funmap in which you control your submarine and have to des
 
 You control your submarine using arrow keys.
 
+### Camera Control
+
+Press F2 to select the hero icon for the camera control which allows you to to move the camera around your submarine.
+
 ### Submerge
 
 As long as your submarine is not submerged you cannot see submerged submarines or what is going on under water.
 You are an easy target for enemy players, ships and weather conditions.
-However, you heal and regenerate your mana faster staying on the water surface.
+However, you heal and regenerate your mana faster staying on the water surface and you move much faster.
 
-The submarine can submerge which makes it invisible and allows you to see whats going on under water but slows it down and reduces its life and mana regeneration.
+The submarine can submerge which makes it invisible from nun-submerged units and allows you to see whats going on under water but slows it down and reduces its life and mana regeneration.
 There is also a time limit on how long you can submerge with oxygen.
 You can dive deeper into the water with the submarine which allows you to discover the seabed and collect useful items.
 However, the pressure gets higher when you dive deeper and it might break your submarine after some time, so do not stay there forever.
+Besides, the view gets worse if you dive deeper into the water.
 
 ### Torpedos
 
@@ -43,10 +48,15 @@ There is a time limit how long torpedos stay alive, so the target can avoid them
 
 Water mines can be placed anywhere in the water and stay invisible except for submerged submarines. They explode on moving over them causing massive damage.
 
+### Water Bombs
+
+Water bombs can be dropped anywhere in the water and explode after a short delay causing massive damage to units.
+
 ### Fishes
 
 Fishes can easily be killed and give you XP and gold. They respawn all the time. The lumber icon and number of Warcraft are used to show the total number of fishes on the map.
-Fishes will be killed when the submarine moves throught them and it is not submerged.
+Fishes will be killed when the submarine moves throught them and is at the same depth as they are.
+Fishes which are deeper in the water will give more XP and gold.
 
 ### Destroyers and Air Craft Carriers
 
