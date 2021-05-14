@@ -179,3 +179,5 @@ They can be used to upgrade your submarine.
 * AnimatedEnviromentalEffectRainCv002 - kellym0
 * Dunkleosteus - olofmoleman
 * BTNDunkleos - olofmoleman
+* Dreadnought Ships - purparisien
+* Imperial Russian Cruiser Bogatyr - ingolfin
