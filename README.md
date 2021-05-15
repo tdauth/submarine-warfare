@@ -1,6 +1,6 @@
 # Submarine Warfare
 
-Warcraft III Reforged funmap in which you control your submarine and have to destroy the other submarines.
+Warcraft III: Reforged funmap in which you control your submarine and have to destroy the other submarines.
 
 ## Play the Map
 
