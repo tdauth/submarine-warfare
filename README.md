@@ -39,6 +39,14 @@ You can dive deeper into the water with the submarine which allows you to discov
 However, the pressure gets higher when you dive deeper and it might break your submarine after some time, so do not stay there forever.
 Besides, the view gets worse if you dive deeper into the water.
 
+### Underwater Bases
+
+Each team has one underwater base which is controlled by the first player of the team and can be accessed via a hero icon.
+The underwater base spawns unit waves automatically which attack the enemy underwater base and cannot be controlled by the player.
+When your underwter base gets destroyed, you will lose the game.
+The underwater base can also train additional units for gold.
+It does neither regnerate life nor can be repaired.
+
 ### Torpedoes
 
 Your submarine can fire torpedoes which do not auto target by default. However, there is an item which allows you to mark targets and then the torpedoes will always follow it.
