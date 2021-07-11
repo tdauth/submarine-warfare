@@ -6,6 +6,7 @@ Warcraft III: Reforged funmap in which you control your submarine and have to de
 
 * [submarinewarfare0.3.w3x](./submarinewarfare0.3.w3x)
 * [Download on HiveWorkshop](https://www.hiveworkshop.com/threads/submarine-warfare-0-2.332475/)
+* [Download on Warcraft 3: Reforged - Map database](https://maps.w3reforged.com/maps/categories/castle-defense/submarine-warfare-03-563943)
 * [Discord Server](https://discord.gg/sXUWS9w9JE)
 
 ## Gameplay
